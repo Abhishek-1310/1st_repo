@@ -1,0 +1,10 @@
+import file from'./file.txt'
+
+use <file/>
+function file(){
+	return(
+	<div>
+</div>
+)
+};
+export default filr
